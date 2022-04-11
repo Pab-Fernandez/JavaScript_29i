@@ -8,7 +8,7 @@
  nombre = "Genario"
  //ya no se usa "var"
 
- let apellido = ("Bombón")
+ let apellido = "Bombón"
 
  const pi= 3.14;
  // sólo se deckara una variable una vez

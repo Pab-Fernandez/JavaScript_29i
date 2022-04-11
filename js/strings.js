@@ -26,6 +26,7 @@ console.log(nombre.toLowerCase());
 
 //extraer una letra
 console.log(frase.charAt(10));
+//una parte
 console.log(frase.substring(0, 2));
 
 console.log(nombre.substring(15));
